@@ -43,5 +43,5 @@
     [SR1GT@github.com]# feh
     <strong>tools&platforms</strong>
   </p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,phpstorm,github,windows" alt="tools&platforms" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,github,windows,ubuntu" alt="tools&platforms" />
 </div>
