@@ -32,16 +32,16 @@
     [SR1GT@github.com]# feh
     <strong>programming_languages</strong>
   </p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,cpp,php,golang,rust&perline=5"
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,golang"
     alt="programming_languages" />
   <p>
     [SR1GT@github.com]# feh
     <strong>frameworks</strong>
   </p>
-  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,django" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=vue,react,svelte,tailwind,express,nestjs" alt="frameworks" />
   <p>
     [SR1GT@github.com]# feh
     <strong>tools&platforms</strong>
   </p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,github,windows,ubuntu" alt="tools&platforms" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,windows,ubuntu" alt="tools&platforms" />
 </div>
