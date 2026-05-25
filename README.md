@@ -1,6 +1,6 @@
 <div style="position: relative;">
   <h1 align="center">Hey there! I am SR1GT</h1>
-  <img src="https://images.unsplash.com/photo-1607706009771-de8808640bcf" alt="image" align="right" width="600"
+  <img src="https://images.unsplash.com/photo-1607706009771-de8808640bcf" alt="image" align="right" width="400"
     style="position: absolute; top: 4; right: 0;" />
   <h3 style="font-size: 1.5em;">About me</h3>
   <p>
